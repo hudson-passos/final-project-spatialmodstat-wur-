@@ -28,5 +28,8 @@ To address the task, we:
 - Assessed the **relative contribution of elevation and influx uncertainty** to the variance in inundation depth, and visualized their spatial influence.
 - Compiled all findings into a concise report answering **seven structured questions**, including maps, figures, and interpretations.
 
-The project was carried out in small groups over the course of **five days**, with the final report submitted collectively and contributing **15%** to the course grade.
+The project was carried out in small groups over the course of **five days**, with the final report submitted collectively and contributing **15%** to the course grade.  
+---
+_This project was completed as part of the GRS-30306 course at Wageningen University & Research._
+
 
